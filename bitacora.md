@@ -2,7 +2,7 @@
 
 **Qué hicimos:** 
 - Definición de la temática del emprendimiento (GameStore) enfocada en el manejo de excepciones.
-- Creación del repositorio en GitHub y estructuración inicial de carpetas (`/src`, `/docs`, `/pruebas`, `/kanban`).
+- Creación del repositorio en GitHub y estructuración inicial de carpetas (`/src`, `/README`, `/kanban`).
 - Armado del tablero Kanban inicial con las tarjetas de definición y alcance.
 
 **Quién hizo qué:** 
