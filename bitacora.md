@@ -44,3 +44,32 @@
 - Diseñar la implementación de las funcionalidades.
 - Comenzar el desarrollo del sistema.
 - Creación de la carpeta `/prueba`.
+
+
+# Día 3 – 11/11/2026
+
+## Qué hicimos:
+
+- Creación de la carpeta `/diseño.md` dentro de la carpeta `/docs` .
+- Identificación de las clases principales.
+- Definición de atributos y métodos.
+- Diseño de excepciones personalizadas.
+- Elaboración del modelo de datos.
+
+## Quien izo qué
+
+-Cuellar Lucas: Creación de la carpeta `/diseño.md`, Identificación de las clases, Diseño de excepciones personañizadas
+
+-Santi De Soisa: Definición de atributos y métodos, Elaboración del modelo de datos
+
+## Qué nos trabo:
+
+- Se nos dificulto un poco la creación del Diseño, pero pudimos elaborar un modelo tanto estético como efícaz.
+
+
+## Qué sigué:
+
+- Avanzar con el día 4 (Desarrollo I)
+- Crear los archivos principales del proyecto.
+- Comenzar la implementación en JavaScript.
+- Desarrollar las primeras funcionalidades del sistema.
