@@ -71,5 +71,5 @@
 
 - Avanzar con el día 4 (Desarrollo I)
 - Crear los archivos principales del proyecto.
-- Comenzar la implementación en JavaScript.
+- Comenzar la implementación en Java.
 - Desarrollar las primeras funcionalidades del sistema.
