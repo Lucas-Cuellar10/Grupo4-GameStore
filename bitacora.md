@@ -58,7 +58,7 @@
 
 ## Quien izo qué
 
--Cuellar Lucas: Creación de la carpeta `/diseño.md`, Identificación de las clases, Diseño de excepciones personañizadas
+-Cuellar Lucas: Creación de la carpeta `/diseño.md`, Identificación de las clases, Diseño de excepciones personalizadas
 
 -Santi De Soisa: Definición de atributos y métodos, Elaboración del modelo de datos
 
