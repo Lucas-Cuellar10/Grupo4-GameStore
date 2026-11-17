@@ -126,3 +126,20 @@ No se registraron dificultades específicas durante esta jornada.
 - Revisar y organizar GitHub y Trello.
 - Preparar capturas de pantalla del proyecto.
 - Preparar la defensa del parcial.
+
+
+# Bitácora – Día 7
+**Fecha: 15y16/11/2026**
+
+### ¿Qué hicimos?
+Durante esta jornada se realizaron las últimas tareas de organización y preparación del proyecto GameStore. Se completó el archivo README con información sobre el funcionamiento del sistema y sus principales características. También se actualizaron las bitácoras, se revisaron el repositorio de GitHub y el tablero Trello para comprobar que estuvieran organizados y actualizados. Además, se prepararon capturas de pantalla del proyecto y se trabajó en la preparación de la defensa del parcial.
+
+### ¿Quién hizo qué?
+- **Lucas Cuellar:** se encargó de completar y revisar la documentación del proyecto, verificar el repositorio de GitHub, preparar las capturas del funcionamiento del sistema y revisar que todo el proyecto estuviera correcto.
+- **Santi De Soisa:** se encargó de actualizar las bitácoras, organizar el tablero Trello y colaborar en la preparación de la defensa del parcial.
+
+### ¿Qué nos trabó?
+No se registraron dificultades específicas durante esta jornada.
+
+### ¿Qué sigue?
+- Defender de manera oral el proyecto.
