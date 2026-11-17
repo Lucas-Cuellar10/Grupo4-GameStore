@@ -1,6 +1,6 @@
-const PrecioInvalidoError = require("./excepciones/PrecioInvalidoError");
-const VideojuegoNoEncontradoError = require("./excepciones/VideojuegoNoEncontradoError");
-const StockInsuficienteError = require("./excepciones/StockInsuficienteError");
+const PrecioInvalidoError = require("../excepciones/PrecioInvalidoError");
+const VideojuegoNoEncontradoError = require("../excepciones/VideoJuegoNoEncontradoError");
+const StockInsuficienteError = require("../excepciones/StockInsuficienteError");
 
 class Tienda {
 
@@ -200,4 +200,3 @@ class Tienda {
 }
 
 module.exports = Tienda;
-
