@@ -14,3 +14,7 @@ Dia 5:
 
 Dia 6:
 <img width="1056" height="552" alt="Captura de pantalla 2026-11-16 223705" src="https://github.com/user-attachments/assets/6525e084-1ce9-4a80-b7cc-328529981095" />
+
+Dia 7:
+
+<img width="1060" height="544" alt="Captura de pantalla 2026-11-16 224002" src="https://github.com/user-attachments/assets/f56e2f3e-ef64-49b2-94d1-97210eb26197" />
