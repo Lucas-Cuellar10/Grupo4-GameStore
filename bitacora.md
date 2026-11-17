@@ -66,7 +66,28 @@
 
 - Se nos dificulto un poco la creación del Diseño, pero pudimos elaborar un modelo tanto estético como efícaz.
 
+Bitácora – Día 4
 
+Fecha: 12/11/2026
+
+¿Qué hicimos?
+
+Comenzamos con la etapa de desarrollo del sistema GameStore utilizando Java y Eclipse. Se crearon los archivos principales del proyecto y se empezó a implementar la gestión de videojuegos y el control de stock. También se comenzó a trabajar en las primeras funcionalidades del sistema, tomando como referencia el diseño realizado anteriormente.
+
+¿Quién hizo qué?
+
+* Lucas Cuellar: se encargó principalmente del desarrollo del sistema en Java, trabajando en las funcionalidades y la implementación del código. También participó en la creación de la bitácora.
+* Santi De Soisa: participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
+
+¿Qué nos trabó?
+
+Durante esta etapa fue necesario organizar el código y adaptar el diseño previo a la implementación en Java.
+
+¿Qué sigue?
+
+* Implementar las funciones de modificación y eliminación de videojuegos.
+* Organizar y clasificar los videojuegos según su plataforma.
+* Integrar y revisar las funcionalidades del sistema para comprobar su correcto funcionamiento.
 ## Qué sigué:
 
 - Avanzar con el día 4 (Desarrollo I)
