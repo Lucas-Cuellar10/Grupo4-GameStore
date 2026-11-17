@@ -1,5 +1,5 @@
 const PrecioInvalidoError = require("../excepciones/PrecioInvalidoError");
-const VideojuegoNoEncontradoError = require("../excepciones/VideoJuegoNoEncontradoError");
+const VideoJuegoNoEncontradoError = require("../excepciones/VideoJuegoNoEncontradoError");
 const StockInsuficienteError = require("../excepciones/StockInsuficienteError");
 
 class Tienda {
