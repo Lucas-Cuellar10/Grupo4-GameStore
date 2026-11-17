@@ -66,57 +66,20 @@
 
 - Se nos dificulto un poco la creación del Diseño, pero pudimos elaborar un modelo tanto estético como efícaz.
 
-Bitácora – Día 4
+# Bitácora – Día 4
+**Fecha: 12/11/2026**
 
-Fecha: 12/11/2026
-
-## ¿Qué hicimos?
-
+### ¿Qué hicimos?
 Comenzamos con la etapa de desarrollo del sistema GameStore utilizando Java y Eclipse. Se crearon los archivos principales del proyecto y se empezó a implementar la gestión de videojuegos y el control de stock. También se comenzó a trabajar en las primeras funcionalidades del sistema, tomando como referencia el diseño realizado anteriormente.
 
-## ¿Quién hizo qué?
+### ¿Quién hizo qué?
+- **Lucas Cuellar:** se encargó principalmente del desarrollo del sistema en Java, trabajando en las funcionalidades y la implementación del código. También participó en la creación de la bitácora.
+- **Santi De Soisa:** participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
 
-* Lucas Cuellar: se encargó principalmente del desarrollo del sistema en Java, trabajando en las funcionalidades y la implementación del código. También participó en la creación de la bitácora.
-* Santi De Soisa: participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
-
-¿Qué nos trabó?
-
+### ¿Qué nos trabó?
 Durante esta etapa fue necesario organizar el código y adaptar el diseño previo a la implementación en Java.
 
-¿Qué sigue?
-
-* Implementar las funciones de modificación y eliminación de videojuegos.
-* Organizar y clasificar los videojuegos según su plataforma.
-* Integrar y revisar las funcionalidades del sistema para comprobar su correcto funcionamiento.
-## Qué sigué:
-
-- Avanzar con el día 4 (Desarrollo I)
-- Crear los archivos principales del proyecto.
-- Comenzar la implementación en Java.
-- Desarrollar las primeras funcionalidades del sistema.
-
-Bitácora – Día 5
-
-Fecha: 13/11/2026
-
-¿Qué hicimos?
-
-Continuamos con el desarrollo del sistema GameStore, completando las funcionalidades de administración del catálogo de videojuegos. Se implementaron las opciones para modificar y eliminar videojuegos, además de la función para listar los videojuegos según su plataforma. También se integraron las nuevas funciones en Tienda.js, se incorporaron las pruebas correspondientes en main.js y se ejecutó el programa con Node.js para comprobar que todas las funcionalidades funcionaran correctamente.
-
-¿Quién hizo qué?
-
-* Lucas Cuellar: se encargó principalmente del desarrollo del sistema, implementando las nuevas funcionalidades, integrándolas y realizando las pruebas correspondientes. También participó en la creación de la bitácora.
-* Santi De Soisa: participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
-
-¿Qué nos trabó?
-
-No se registraron dificultades específicas durante esta jornada. Se logró completar las tareas previstas y comprobar el funcionamiento de las nuevas funcionalidades.
-
-¿Qué sigue?
-
-* Se ejecutaron pruebas de registro de videojuegos.
-* Se verificó el control de precios y stock inválidos.
-* Se probaron las búsquedas de videojuegos existentes e inexistentes.
-* Se verificaron las ventas y el control de stock insuficiente.
-* Se probaron las funciones de modificación, eliminación y filtrado por plataforma.
-* Se documentaron los resultados en pruebas/.
+### ¿Qué sigue?
+- Implementar las funciones de modificación y eliminación de videojuegos.
+- Organizar y clasificar los videojuegos según su plataforma.
+- Integrar y revisar las funcionalidades del sistema para comprobar su correcto funcionamiento.
