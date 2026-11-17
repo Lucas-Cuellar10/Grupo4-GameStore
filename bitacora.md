@@ -70,11 +70,11 @@ Bitácora – Día 4
 
 Fecha: 12/11/2026
 
-¿Qué hicimos?
+## ¿Qué hicimos?
 
 Comenzamos con la etapa de desarrollo del sistema GameStore utilizando Java y Eclipse. Se crearon los archivos principales del proyecto y se empezó a implementar la gestión de videojuegos y el control de stock. También se comenzó a trabajar en las primeras funcionalidades del sistema, tomando como referencia el diseño realizado anteriormente.
 
-¿Quién hizo qué?
+## ¿Quién hizo qué?
 
 * Lucas Cuellar: se encargó principalmente del desarrollo del sistema en Java, trabajando en las funcionalidades y la implementación del código. También participó en la creación de la bitácora.
 * Santi De Soisa: participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
