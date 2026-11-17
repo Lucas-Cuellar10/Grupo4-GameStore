@@ -94,3 +94,29 @@ Durante esta etapa fue necesario organizar el código y adaptar el diseño previ
 - Crear los archivos principales del proyecto.
 - Comenzar la implementación en Java.
 - Desarrollar las primeras funcionalidades del sistema.
+
+Bitácora – Día 5
+
+Fecha: 13/11/2026
+
+¿Qué hicimos?
+
+Continuamos con el desarrollo del sistema GameStore, completando las funcionalidades de administración del catálogo de videojuegos. Se implementaron las opciones para modificar y eliminar videojuegos, además de la función para listar los videojuegos según su plataforma. También se integraron las nuevas funciones en Tienda.js, se incorporaron las pruebas correspondientes en main.js y se ejecutó el programa con Node.js para comprobar que todas las funcionalidades funcionaran correctamente.
+
+¿Quién hizo qué?
+
+* Lucas Cuellar: se encargó principalmente del desarrollo del sistema, implementando las nuevas funcionalidades, integrándolas y realizando las pruebas correspondientes. También participó en la creación de la bitácora.
+* Santi De Soisa: participó en la creación de la bitácora y en la organización y actualización del tablero Trello.
+
+¿Qué nos trabó?
+
+No se registraron dificultades específicas durante esta jornada. Se logró completar las tareas previstas y comprobar el funcionamiento de las nuevas funcionalidades.
+
+¿Qué sigue?
+
+* Se ejecutaron pruebas de registro de videojuegos.
+* Se verificó el control de precios y stock inválidos.
+* Se probaron las búsquedas de videojuegos existentes e inexistentes.
+* Se verificaron las ventas y el control de stock insuficiente.
+* Se probaron las funciones de modificación, eliminación y filtrado por plataforma.
+* Se documentaron los resultados en pruebas/.
