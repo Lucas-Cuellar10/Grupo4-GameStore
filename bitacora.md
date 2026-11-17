@@ -105,3 +105,24 @@ No se registraron dificultades específicas durante esta jornada. Se logró comp
 - Se verificaron las ventas y el control de stock insuficiente.
 - Se probaron las funciones de modificación, eliminación y filtrado por plataforma.
 - Se documentaron los resultados en `pruebas/`.
+
+
+# Bitácora – Día 6
+**Fecha: 14/11/2026**
+
+### ¿Qué hicimos?
+Durante esta jornada se realizaron diferentes pruebas para verificar el correcto funcionamiento del sistema GameStore. Se comprobó el registro de videojuegos, el control de precios y stock inválidos, las búsquedas de videojuegos existentes e inexistentes y el funcionamiento de las ventas. También se probaron las funciones de modificación, eliminación y filtrado por plataforma. Finalmente, se documentaron los resultados obtenidos en la carpeta `pruebas/`.
+
+### ¿Quién hizo qué?
+- **Lucas Cuellar:** se encargó principalmente del desarrollo y las pruebas del sistema, verificando el funcionamiento de las distintas funcionalidades.
+- **Santi De Soisa:** se encargó de la elaboración de la bitácora y de la organización y actualización del tablero Trello.
+
+### ¿Qué nos trabó?
+No se registraron dificultades específicas durante esta jornada.
+
+### ¿Qué sigue?
+- Completar el archivo README del proyecto.
+- Actualizar la bitácora.
+- Revisar y organizar GitHub y Trello.
+- Preparar capturas de pantalla del proyecto.
+- Preparar la defensa del parcial.
